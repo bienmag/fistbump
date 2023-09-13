@@ -1,31 +1,9 @@
-# FISTBUMP - a 360 performance peer review - Group Project @ Arol Dev
+# FISTBUMP - a 360 performance review 
 
-## Full Stack App with NextJs, TailwindCSS, MongoDB, Docker
+It happens that traditional performance review are often one-sided and biased, as they relied solely on the perscpective of the manager or supervisor. 
 
-"The Peer360 Reviewer is a cutting-edge software solution designed to streamline and optimize the peer review process in organizations. With its intuitive interface, employees can easily provide and receive comprehensive feedback from colleagues, ensuring a holistic view of individual performance. Leveraging advanced analytics and customizable templates, Peer360 ensures actionable insights and fosters a culture of continuous improvement."
+Our goal was to develop a solution that would provide a more comprehensive and balanced assessment of employee performance. We wanted to create a platform that would facilitate a 360-degree review process, allowing employees to receive feedback from not only their managers but also their peers, subordinates, and even themselves.
 
-## Prerequisites
+To achieve this, we embarked on the development of a web application designed specifically for conducting 360-degree reviews. Our proficient team of developers and a UX designer worked collaboratively to create a user-friendly interface that would make it easy for users to request and provide feedback. We implemented features such as anonymity controls to ensure honest and constructive feedback, and we incorporated a robust reporting system to help employees track their progress over time.
 
-- Node version 14.x
-- Docker (if using Docker for the server)
-
-## Cloning the repository
-
-`git@github.com:craigostrin/fistbump.git`
-
-## Install packages
-
-Navigate to the root directory of the project and run:
-`yarn`
-
-## Setup .env file
-
-Create a .env file in the root directory and add your database connection string:
-`MONGODB_URL=your_connection_string_here`
-
-## Start Application
-
-You can start both the client and server by running:
-`yarn dev`
-
-If you have any further questions or need additional assistance, please let us know!
+ 
